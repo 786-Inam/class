@@ -1,0 +1,2 @@
+# class
+best Inheritance example
